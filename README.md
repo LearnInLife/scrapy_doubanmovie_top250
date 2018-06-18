@@ -1,2 +1,3 @@
 # scrapy_doubanmovie_top250
 scrapy spider doubanmovie
+使用scrapy爬虫框架爬取 豆瓣前250名电影
